@@ -4,4 +4,4 @@ st.title("chaningmurray")
 st.write(
     "dimsthemeatguy"
 )
-st.image("IMG-20250508-WA0072.jpg")
+st.image("IMG-20250508-WA0072.jpg", width=200)
